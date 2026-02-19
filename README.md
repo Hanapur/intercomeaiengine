@@ -1,3 +1,4 @@
+
 # 🚀 Intercom AI Engine
 
 AI Searching & Hot Meme Token Application
@@ -16,8 +17,8 @@ trac1pafxap939g4xtttan7sa2fefwq634dmjx8c7nlsl2jag8l7g78fqx3gvg5
 - Hot Meme Token UI
 - Markdown Viewer
 - Built for Termux
-- Modern Web UI
-
+- Modern dark mode UI
+- Hot Meme Token placeholder
 ---
 
 ## 📦 Run in Termux
@@ -26,3 +27,6 @@ trac1pafxap939g4xtttan7sa2fefwq634dmjx8c7nlsl2jag8l7g78fqx3gvg5
 pkg install nodejs -y
 npm install
 node app.js
+
+proof of execution
+![Screenshot](./intercom_screenshot.png)
