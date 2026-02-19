@@ -33,4 +33,4 @@ node app.js
 
 ![Intercom AI Engine Screenshot](./intercom_screenshot.png)
 
-![Ai](https://github.com/user-attachments/assets/e9e4af8f-fa22-494e-b3b9-42b66e3f5be2)
+
