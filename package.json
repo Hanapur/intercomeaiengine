@@ -1,0 +1,24 @@
+{
+  "name": "intercomeaiengine",
+  "version": "1.0.0",
+  "description": "AI Searching & Hot Meme Token Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanapur/intercomeaiengine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hanapur/intercomeaiengine/issues"
+  },
+  "homepage": "https://github.com/Hanapur/intercomeaiengine#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
