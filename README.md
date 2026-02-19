@@ -29,7 +29,4 @@ npm install
 node app.js
 
 
-
-## 📸 Screenshot Proof
-
 ![Intercom AI Engine Screenshot](./intercom_screenshot.png)
