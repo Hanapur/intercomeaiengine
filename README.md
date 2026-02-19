@@ -31,4 +31,4 @@ node app.js
 
 ## 📸 Screenshot Proof
 
-![Image](https://github.com/user-attachments/assets/427e9a76-d32b-4206-a737-22b1df1e27de)
+![Image alt](https://github.com/Hanapur/intercomeaiengine/blob/4f7157648059d60da884541a43a79e2911f5e305/Ai.jpg)
