@@ -28,7 +28,8 @@ pkg install nodejs -y
 npm install
 node app.js
 
-proof of execution
+
+
 ## 📸 Screenshot Proof
 
 ![Intercom AI Engine Screenshot](./intercom_screenshot.png)
